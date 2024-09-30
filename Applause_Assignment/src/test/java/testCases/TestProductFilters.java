@@ -1,5 +1,6 @@
 package testCases;
 
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -12,13 +13,13 @@ import utilities.ExcelReadWrite;
 import utilities.ExtentManager;
 import utilities.TestUtils;
 
-public class TestCase1 extends BaseClass
+public class TestProductFilters extends BaseClass
 {
 	HomePageObjects hp;
 	ParfumPageObjects pp;
 	
-	@Test(enabled=true, priority=1, description="TestCase1")
-	public void testCase1() throws InterruptedException
+	@Test(enabled=true, priority=1, description="Navigate to Parfum page")
+	public void navigateToParfumPage() throws InterruptedException
 	{
 		hp = new HomePageObjects();
 		
@@ -43,8 +44,8 @@ public class TestCase1 extends BaseClass
 		
 	}
 	
-	@Test(enabled=true, priority=2, description="TestCase2")
-	public void testCase2() throws InterruptedException
+	@Test(enabled=true, priority=2, description="Verify Parfum page and Filters")
+	public void verifyParfumPageAndFilters() throws InterruptedException
 	{	
 		pp.removeElementFocus();
 		
@@ -55,8 +56,8 @@ public class TestCase1 extends BaseClass
 		
 	}
 	
-	@Test(enabled=true, priority=3, description="TestCase3")
-	public void testCase3() throws Exception
+	@Test(enabled=true, priority=3, description="Test filter Highlights Sale")
+	public void testFilterHighlightsSale() throws Exception
 	{	
 		pp.clickHighlightsFacet();
 		
@@ -73,8 +74,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet1", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=4, description="TestCase4")
-	public void testCase4() throws Exception
+	@Test(enabled=true, priority=4, description="Test filter Highlights Sale with Marke 1916")
+	public void testFilterHighlightsWithMarke1916() throws Exception
 	{	
 		pp.clickMarkeFacet();
 		
@@ -92,8 +93,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet2", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=5, description="TestCase5")
-	public void testCase5() throws Exception
+	@Test(enabled=true, priority=5, description="Test filter Highlights Sale with Produktart EauDeParfum")
+	public void testFilterHighlightsSaleWithProduktartEauDeParfum() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -124,8 +125,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet3", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=6, description="TestCase6")
-	public void testCase6() throws Exception
+	@Test(enabled=true, priority=6, description="Test filter Highlights Sale with FurWen Mannlich")
+	public void testFilterHighlightsSaleWithFurwenMannlich() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -154,8 +155,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet4", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=7, description="TestCase7")
-	public void testCase7() throws Exception
+	@Test(enabled=true, priority=7, description="Test filter Highlights Sale with Geschenkfur Geburtstag")
+	public void testFilterHighlightsSaleWithGeschenkfurFacetGeburtstag() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -184,8 +185,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet5", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=8, description="TestCase8")
-	public void testCase8() throws Exception
+	@Test(enabled=true, priority=8, description="Test filter Highlights Neu")
+	public void testFilterHighlightsNeu() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -205,8 +206,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet6", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=9, description="TestCase9")
-	public void testCase9() throws Exception
+	@Test(enabled=true, priority=9, description="Test filter Highlights Neu with Marke 4711AcquaColonia")
+	public void testFilterHighlightsNeuWithMarkeFacet4711AcquaColonia() throws Exception
 	{	
 		pp.clickMarkeFacet();
 		
@@ -224,8 +225,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet7", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=10, description="TestCase10")
-	public void testCase10() throws Exception
+	@Test(enabled=true, priority=10, description="Test filter Highlights Neu with Produktart EauDeParfum")
+	public void testFilterHighlightsNeuWithProduktartFacetEauDeParfum() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -254,8 +255,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet8", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=11, description="TestCase11")
-	public void testCase11() throws Exception
+	@Test(enabled=true, priority=11, description="Test filter Highlights Neu with FurWen Mannlich")
+	public void testFilterHighlightsNeuWithFurWenFacetMannlich() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -282,8 +283,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet9", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=12, description="TestCase12")
-	public void testCase12() throws Exception
+	@Test(enabled=true, priority=12, description="Test filter Highlights Neu with Geschenkfur Nikolaus")
+	public void testFilterHighlightsNeuWithGeschenkfurFacetNikolaus() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -310,8 +311,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet10", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=13, description="TestCase13")
-	public void testCase13() throws Exception
+	@Test(enabled=true, priority=13, description="Test filter Highlights Limitiert")
+	public void testFilterHighlightsLimitiert() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -331,8 +332,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet11", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=14, description="TestCase14")
-	public void testCase14() throws Exception
+	@Test(enabled=true, priority=14, description="Test filter Highlights Limitiert with Marke 4711AcquaColonia")
+	public void testFilterHighlightsLimitiertWithMarkeFacet4711AcquaColonia() throws Exception
 	{	
 		pp.clickMarkeFacet();
 		
@@ -350,8 +351,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet12", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=15, description="TestCase15")
-	public void testCase15() throws Exception
+	@Test(enabled=true, priority=15, description="Test filter Highlights Limitiert with Produktart EauDeParfum")
+	public void testFilterHighlightsLimitiertWithProduktartFacetEauDeParfum() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -380,8 +381,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet13", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=16, description="TestCase16")
-	public void testCase16() throws Exception
+	@Test(enabled=true, priority=16, description="Test filter Highlights Limitiert with FurWen Mannlich")
+	public void testFilterHighlightsLimitiertWithFurWenFacetMannlich() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
@@ -408,8 +409,8 @@ public class TestCase1 extends BaseClass
 		pp.listAllFilteredProducts("Sheet14", 5, 0);
 	}
 	
-	@Test(enabled=true, priority=17, description="TestCase17")
-	public void testCase17() throws Exception
+	@Test(enabled=true, priority=17, description="Test filter Highlights Limitiert with Geschenkfur Nikolaus")
+	public void testFilterHighlightsLimitiertWithGeschenkfurFacetNikolaus() throws Exception
 	{	
 		pp.clearFilter();
 		pp.checkNoFilterFacet();
