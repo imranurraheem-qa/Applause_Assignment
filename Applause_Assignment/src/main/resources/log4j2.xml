@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+        <!-- "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n" -->
+        <!-- "%d{yyyy-MM-dd.HH:mm:ss.SSS} [%c] %-5level - %msg%n" -->
+            <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n"/>
+        </Console>
+        <File name="File" fileName="./logs/${date:yyyy-MM-dd.HH:mm:ss.SSS}-log4j.log" append="true">
+            <PatternLayout>
+                <Pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="co.gokwik" level="info" additivity="true">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>

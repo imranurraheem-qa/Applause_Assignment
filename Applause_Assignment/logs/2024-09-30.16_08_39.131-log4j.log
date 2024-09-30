@@ -1,0 +1,1397 @@
+[INFO ] 2024-09-30 16:08:39.213 utilities.BaseClass:78 - Testing on: chrome
+[INFO ] 2024-09-30 16:08:41.694 utilities.BaseClass:90 - Open URL: https://www.douglas.de/de
+[INFO ] 2024-09-30 16:08:43.789 utilities.BaseClass:122 - Page title is: Online-Parfümerie ✔️ Parfum & Kosmetik kaufen | DOUGLAS
+[INFO ] 2024-09-30 16:08:43.801 testCases.TestCase1:30 - Correct website homepage is loaded: Online-Parfümerie ✔️ Parfum & Kosmetik kaufen | DOUGLAS
+[INFO ] 2024-09-30 16:08:43.878 utilities.BaseClass:137 - Privacy concent popup is visible
+[INFO ] 2024-09-30 16:08:43.928 utilities.BaseClass:137 - Privacy concent popup Allow all button is visible
+[INFO ] 2024-09-30 16:08:44.043 utilities.BaseClass:217 - Clicked Allow all button
+[INFO ] 2024-09-30 16:08:44.202 utilities.BaseClass:137 - Parfum navigation link is visible
+[INFO ] 2024-09-30 16:08:44.425 utilities.BaseClass:217 - Clicked Parfum navigation link
+[INFO ] 2024-09-30 16:08:46.910 utilities.BaseClass:137 - Product overview headline is visible
+[INFO ] 2024-09-30 16:08:46.968 utilities.BaseClass:253 - Product overview headline is : PARFÜM & DÜFTE
+[INFO ] 2024-09-30 16:08:47.040 utilities.BaseClass:137 - Product filter facet list is visible
+[INFO ] 2024-09-30 16:08:47.073 utilities.BaseClass:137 - Product listing is visible
+[INFO ] 2024-09-30 16:08:47.107 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:08:47.329 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:08:47.443 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:08:48.025 utilities.ExcelReadWrite:43 - Excel data: Sale
+[INFO ] 2024-09-30 16:08:48.062 utilities.BaseClass:137 - Product filter highlights Sale is visible
+[INFO ] 2024-09-30 16:08:48.330 utilities.BaseClass:217 - Clicked Product filter highlights Sale
+[INFO ] 2024-09-30 16:08:51.378 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:08:51.388 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:08:51.446 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:08:51.652 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:08:52.675 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:08:52.846 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:08:52.860 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 47
+[INFO ] 2024-09-30 16:08:52.883 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.892 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:52.907 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.915 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:52.928 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.935 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:52.947 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.954 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:52.968 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.975 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:52.989 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:52.997 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.024 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.035 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.050 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.058 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.071 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.079 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.093 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.100 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.114 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.121 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.133 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.140 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.155 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.163 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.177 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.184 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.197 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.204 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.219 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.226 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.239 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.246 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.259 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.265 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.281 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.290 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.304 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.311 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.325 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.333 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.347 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.354 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.368 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.375 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.388 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.397 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.410 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.419 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.432 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.440 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.453 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.460 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.472 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.480 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.494 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.500 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.512 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.519 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.530 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.538 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.552 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.559 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.573 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.584 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.597 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.605 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.619 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.628 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.642 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.649 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.665 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.672 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.685 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.693 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.707 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.713 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.726 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.733 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.746 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.755 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.769 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.779 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.795 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.802 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.818 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.826 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.842 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.853 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.867 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.875 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.889 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:08:53.896 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:08:53.897 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 47 are matching
+[INFO ] 2024-09-30 16:08:53.937 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:08:54.082 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:08:54.192 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:08:54.290 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:08:54.394 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:54.524 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:08:54.669 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:08:54.807 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:08:54.892 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:54.997 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:55.101 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:08:55.195 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:55.309 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:08:55.404 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:08:55.491 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:08:55.566 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:08:55.654 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:08:55.734 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:08:55.812 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:55.886 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:55.968 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:08:56.057 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:56.144 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:08:56.221 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:08:56.307 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:56.388 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:08:56.495 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:08:56.571 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:56.648 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:08:56.724 utilities.BaseClass:253 - Filtered product tile product name is : LACOSTE
+[INFO ] 2024-09-30 16:08:56.798 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:56.874 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:08:56.952 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:08:57.032 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:08:57.156 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:08:57.239 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:57.314 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:08:57.389 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:57.462 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:08:57.540 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:08:57.618 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:57.691 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:08:57.762 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:57.833 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:57.904 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:08:57.978 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:08:58.047 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:08:58.120 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:08:58.189 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:08:58.262 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:08:58.352 utilities.BaseClass:137 - Product filter Marke is visible
+[INFO ] 2024-09-30 16:08:58.497 utilities.BaseClass:217 - Clicked Product filter Marke
+[INFO ] 2024-09-30 16:08:59.086 utilities.BaseClass:137 - Product filter Marke 1916 is visible
+[INFO ] 2024-09-30 16:08:59.369 utilities.BaseClass:217 - Clicked Product filter Marke 1916
+[INFO ] 2024-09-30 16:08:59.456 utilities.ExcelReadWrite:43 - Excel data: 1916
+[INFO ] 2024-09-30 16:09:02.495 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:02.511 utilities.BaseClass:253 - Selected facet name is : 1916
+[INFO ] 2024-09-30 16:09:02.537 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:02.549 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:02.583 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:02.858 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:03.872 pageObjects.ParfumPageObjects:178 - Count of filtered products: 1
+[INFO ] 2024-09-30 16:09:03.925 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:09:03.934 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 1
+[INFO ] 2024-09-30 16:09:03.955 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:03.963 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:03.963 pageObjects.ParfumPageObjects:215 - Count of filtered products: 1 and discount eyecatchers: 1 are matching
+[INFO ] 2024-09-30 16:09:03.983 utilities.BaseClass:137 - Product tile Marke is visible
+[INFO ] 2024-09-30 16:09:03.992 utilities.BaseClass:253 - Product tile Marke name is : 1916
+[INFO ] 2024-09-30 16:09:04.014 utilities.BaseClass:253 - Filtered product tile product name is : 1916
+[INFO ] 2024-09-30 16:09:04.104 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:09:04.268 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:09:05.790 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:09:05.810 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:09:05.866 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:09:06.005 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:09:06.131 utilities.ExcelReadWrite:43 - Excel data: Sale
+[INFO ] 2024-09-30 16:09:06.218 utilities.BaseClass:137 - Product filter highlights Sale is visible
+[INFO ] 2024-09-30 16:09:06.610 utilities.BaseClass:217 - Clicked Product filter highlights Sale
+[INFO ] 2024-09-30 16:09:09.644 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:09.654 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:09.701 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:09.922 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:10.964 utilities.BaseClass:137 - Product facet Produktart is visible
+[INFO ] 2024-09-30 16:09:11.074 utilities.BaseClass:217 - Clicked product facet Produktart
+[INFO ] 2024-09-30 16:09:11.666 utilities.BaseClass:137 - Product facet Produktart EauDeParfum is visible
+[INFO ] 2024-09-30 16:09:11.936 utilities.BaseClass:217 - Clicked product facet Produktart EauDeParfum
+[INFO ] 2024-09-30 16:09:11.963 utilities.ExcelReadWrite:43 - Excel data: Eau de Parfum
+[INFO ] 2024-09-30 16:09:15.003 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:15.020 utilities.BaseClass:253 - Selected facet name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:15.045 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:15.061 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:15.103 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:15.359 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:16.377 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:09:16.482 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:09:16.504 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 46
+[INFO ] 2024-09-30 16:09:16.546 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.558 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.585 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.609 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.660 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.678 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.714 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.730 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.754 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.765 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.784 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.794 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.812 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.824 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.848 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.860 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.889 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.907 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.932 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.941 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.960 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:16.969 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:16.990 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.000 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.019 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.035 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.055 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.065 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.083 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.094 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.114 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.124 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.142 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.155 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.200 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.243 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.302 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.327 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.368 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.383 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.409 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.420 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.440 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.449 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.466 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.483 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.507 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.519 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.536 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.545 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.563 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.571 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.588 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.598 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.625 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.634 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.651 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.662 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.681 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.692 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.712 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.731 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.770 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.782 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.808 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.823 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.844 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.853 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.874 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.887 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.908 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.916 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.945 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.955 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:17.975 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:17.984 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.001 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.011 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.028 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.037 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.053 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.063 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.081 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.091 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.107 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.116 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.135 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.145 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.163 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.176 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.193 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:18.201 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:18.202 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 46 are matching
+[INFO ] 2024-09-30 16:09:18.236 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.246 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.266 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.278 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.297 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.307 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.337 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.347 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.365 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.376 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.392 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.401 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.417 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.427 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.444 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.453 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.472 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.481 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.498 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.508 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.524 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.533 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.552 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.563 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.593 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.601 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.618 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.627 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.644 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.653 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.669 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.679 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.696 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.707 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.725 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.733 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.749 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.759 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.774 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.782 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.799 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.808 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.824 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.834 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.851 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.862 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.881 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.892 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.908 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.918 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.935 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.945 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.961 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.969 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:18.987 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:18.997 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.016 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.025 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.042 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.051 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.068 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.080 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.097 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.107 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.124 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.133 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.150 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.159 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.178 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.187 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.206 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.215 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.231 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.241 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.258 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.267 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.283 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.293 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.309 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.318 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.334 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.343 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.360 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.368 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.387 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.396 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.412 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.457 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.511 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.531 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.558 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:09:19.575 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:09:19.619 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:19.716 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:19.785 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:19.870 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:09:20.041 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:20.105 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:20.186 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:20.253 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:20.320 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:20.393 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:20.469 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:20.598 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:20.680 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:20.758 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:20.863 utilities.BaseClass:253 - Filtered product tile product name is : LACOSTE
+[INFO ] 2024-09-30 16:09:20.930 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:21.017 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:21.090 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:21.167 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:21.238 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:21.318 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:21.398 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:21.474 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:21.545 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:21.617 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:21.691 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:09:21.758 utilities.BaseClass:253 - Filtered product tile product name is : VIKTOR&ROLF
+[INFO ] 2024-09-30 16:09:21.829 utilities.BaseClass:253 - Filtered product tile product name is : MONTBLANC
+[INFO ] 2024-09-30 16:09:21.913 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:21.995 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:22.062 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:22.141 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:22.205 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:22.275 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:22.340 utilities.BaseClass:253 - Filtered product tile product name is : MARC JACOBS
+[INFO ] 2024-09-30 16:09:22.429 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:22.496 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:22.560 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:22.629 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:22.696 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:22.786 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:22.857 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:09:22.924 utilities.BaseClass:253 - Filtered product tile product name is : KENZO
+[INFO ] 2024-09-30 16:09:22.991 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:23.053 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:23.126 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:09:23.246 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:09:23.557 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:09:24.198 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:09:24.216 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:09:24.316 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:09:24.457 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:09:24.541 utilities.ExcelReadWrite:43 - Excel data: Sale
+[INFO ] 2024-09-30 16:09:24.704 utilities.BaseClass:137 - Product filter highlights Sale is visible
+[INFO ] 2024-09-30 16:09:25.100 utilities.BaseClass:217 - Clicked Product filter highlights Sale
+[INFO ] 2024-09-30 16:09:28.138 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:28.156 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:28.203 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:28.454 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:29.499 utilities.BaseClass:137 - Product facet Fur Wen is visible
+[INFO ] 2024-09-30 16:09:29.618 utilities.BaseClass:217 - Clicked product facet Fur Wen
+[INFO ] 2024-09-30 16:09:30.196 utilities.BaseClass:137 - Product facet Fur Wen Mannlich is visible
+[INFO ] 2024-09-30 16:09:30.627 utilities.BaseClass:217 - Clicked product facet Fur Wen Mannlich
+[INFO ] 2024-09-30 16:09:30.664 utilities.ExcelReadWrite:43 - Excel data: Männlich
+[INFO ] 2024-09-30 16:09:33.703 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:33.724 utilities.BaseClass:253 - Selected facet name is : Männlich
+[INFO ] 2024-09-30 16:09:33.748 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:33.760 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:33.814 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:34.118 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:35.149 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:09:35.209 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:09:35.223 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 46
+[INFO ] 2024-09-30 16:09:35.256 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.268 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.294 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.305 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.326 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.337 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.359 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.369 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.389 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.399 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.419 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.430 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.450 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.462 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.481 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.492 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.512 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.524 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.548 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.562 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.593 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.607 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.627 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.638 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.658 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.669 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.688 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.698 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.718 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.732 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.750 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.760 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.779 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.791 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.811 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.824 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.847 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.858 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.880 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.890 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.911 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.921 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.941 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.951 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:35.971 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:35.981 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.002 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.011 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.033 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.046 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.067 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.077 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.096 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.107 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.126 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.137 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.158 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.168 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.188 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.198 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.218 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.228 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.247 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.257 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.276 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.287 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.307 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.317 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.340 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.352 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.375 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.385 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.404 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.415 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.439 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.450 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.474 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.486 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.510 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.521 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.547 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.564 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.587 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.601 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.625 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.636 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.655 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.666 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.685 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.697 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.716 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:36.726 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:36.727 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 46 are matching
+[INFO ] 2024-09-30 16:09:36.762 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:36.854 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:36.919 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:36.995 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:37.065 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:37.237 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:37.341 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:37.414 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:37.486 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:09:37.557 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:09:37.629 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:37.703 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:37.775 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:09:37.844 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:09:37.910 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:09:37.977 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:38.053 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:38.128 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:38.197 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:38.266 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:38.335 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:38.409 utilities.BaseClass:253 - Filtered product tile product name is : VIKTOR&ROLF
+[INFO ] 2024-09-30 16:09:38.483 utilities.BaseClass:253 - Filtered product tile product name is : MONTBLANC
+[INFO ] 2024-09-30 16:09:38.563 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:38.642 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:38.711 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:38.778 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:38.848 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:38.921 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:39.000 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:39.109 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:39.222 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:39.301 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:39.370 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:39.454 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:39.526 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:39.595 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:39.660 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:09:39.731 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:39.793 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:39.864 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:09:39.932 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:40.011 utilities.BaseClass:253 - Filtered product tile product name is : DIESEL
+[INFO ] 2024-09-30 16:09:40.095 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:40.191 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:40.267 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:40.342 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:40.427 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:40.544 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:09:40.805 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:09:41.572 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:09:41.595 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:09:41.643 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:09:41.776 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:09:41.842 utilities.ExcelReadWrite:43 - Excel data: Sale
+[INFO ] 2024-09-30 16:09:42.431 utilities.BaseClass:137 - Product filter highlights Sale is visible
+[INFO ] 2024-09-30 16:09:42.773 utilities.BaseClass:217 - Clicked Product filter highlights Sale
+[INFO ] 2024-09-30 16:09:45.833 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:45.851 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:45.917 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:46.263 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:47.316 utilities.BaseClass:137 - Product facet Geschenkfur is visible
+[INFO ] 2024-09-30 16:09:47.441 utilities.BaseClass:217 - Clicked product facet Geschenkfur
+[INFO ] 2024-09-30 16:09:48.040 utilities.BaseClass:137 - Product facet Geschenkfur Geburtstag is visible
+[INFO ] 2024-09-30 16:09:48.434 utilities.BaseClass:217 - Clicked product facet Geschenkfur Geburtstag
+[INFO ] 2024-09-30 16:09:48.459 utilities.ExcelReadWrite:43 - Excel data: Geburtstag
+[INFO ] 2024-09-30 16:09:51.506 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:51.523 utilities.BaseClass:253 - Selected facet name is : Geburtstag
+[INFO ] 2024-09-30 16:09:51.559 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:09:51.571 utilities.BaseClass:253 - Selected facet name is : Sale
+[INFO ] 2024-09-30 16:09:51.617 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:09:51.939 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:09:52.957 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:09:53.034 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:09:53.048 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 46
+[INFO ] 2024-09-30 16:09:53.083 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.094 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.116 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.126 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.146 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.157 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.178 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.190 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.210 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.221 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.243 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.254 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.277 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.288 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.309 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.319 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.342 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.353 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.374 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.384 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.406 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.417 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.437 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.447 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.467 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.478 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.497 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.507 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.526 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.541 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.564 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.574 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.600 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.611 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.632 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.644 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.667 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.680 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.705 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.717 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.740 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.752 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.773 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.784 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.805 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.816 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.836 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.847 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.867 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.879 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.899 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.910 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.931 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.942 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.963 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:53.973 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:53.993 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.004 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.025 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.034 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.055 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.066 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.085 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.096 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.116 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.127 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.147 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.158 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.178 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.191 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.215 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.226 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.254 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.265 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.285 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.295 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.316 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.327 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.349 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.359 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.378 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.389 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.410 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.420 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.441 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.451 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.471 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.481 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.500 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.510 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.531 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:09:54.541 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:09:54.541 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 46 are matching
+[INFO ] 2024-09-30 16:09:54.577 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:09:54.681 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:54.753 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:54.836 utilities.BaseClass:253 - Filtered product tile product name is : KENZO
+[INFO ] 2024-09-30 16:09:54.907 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:54.988 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:55.058 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:09:55.133 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:09:55.200 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:55.270 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:09:55.339 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:55.406 utilities.BaseClass:253 - Filtered product tile product name is : TOMMY HILFIGER
+[INFO ] 2024-09-30 16:09:55.480 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:09:55.551 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:09:55.651 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:09:55.722 utilities.BaseClass:253 - Filtered product tile product name is : MARC JACOBS
+[INFO ] 2024-09-30 16:09:55.799 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:55.865 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:55.941 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:09:56.013 utilities.BaseClass:253 - Filtered product tile product name is : EISENBERG
+[INFO ] 2024-09-30 16:09:56.087 utilities.BaseClass:253 - Filtered product tile product name is : MICHAEL KORS
+[INFO ] 2024-09-30 16:09:56.159 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:56.228 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:56.315 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:09:56.395 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:56.469 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:09:56.542 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:09:56.617 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:09:56.692 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:56.777 utilities.BaseClass:253 - Filtered product tile product name is : VIKTOR&ROLF
+[INFO ] 2024-09-30 16:09:56.845 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:56.919 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:09:56.990 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:09:57.067 utilities.BaseClass:253 - Filtered product tile product name is : GUY LAROCHE
+[INFO ] 2024-09-30 16:09:57.169 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:09:57.252 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:09:57.323 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:57.398 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:09:57.476 utilities.BaseClass:253 - Filtered product tile product name is : KENZO
+[INFO ] 2024-09-30 16:09:57.555 utilities.BaseClass:253 - Filtered product tile product name is : GUESS
+[INFO ] 2024-09-30 16:09:57.626 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:09:57.698 utilities.BaseClass:253 - Filtered product tile product name is : ESCADA
+[INFO ] 2024-09-30 16:09:57.773 utilities.BaseClass:253 - Filtered product tile product name is : BIOTHERM HOMME
+[INFO ] 2024-09-30 16:09:57.843 utilities.BaseClass:253 - Filtered product tile product name is : HELENE FISCHER
+[INFO ] 2024-09-30 16:09:57.914 utilities.BaseClass:253 - Filtered product tile product name is : KENZO
+[INFO ] 2024-09-30 16:09:57.988 utilities.BaseClass:253 - Filtered product tile product name is : LANVIN
+[INFO ] 2024-09-30 16:09:58.063 utilities.BaseClass:253 - Filtered product tile product name is : RALPH LAUREN
+[INFO ] 2024-09-30 16:09:58.134 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:09:58.204 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:09:58.272 utilities.BaseClass:253 - Filtered product tile product name is : MERCEDES-BENZ PARFUMS
+[INFO ] 2024-09-30 16:09:58.363 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:09:58.711 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:09:59.427 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:09:59.448 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:09:59.493 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:09:59.652 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:09:59.756 utilities.ExcelReadWrite:43 - Excel data: NEU
+[INFO ] 2024-09-30 16:09:59.888 utilities.BaseClass:137 - Product filter highlights NEU is visible
+[INFO ] 2024-09-30 16:10:00.367 utilities.BaseClass:217 - Clicked Product filter highlights NEU
+[INFO ] 2024-09-30 16:10:03.409 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:03.435 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:03.491 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:03.857 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:04.899 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:10:04.963 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:10:04.981 pageObjects.ParfumPageObjects:379 - Count of facet new eyecatcher: 46
+[INFO ] 2024-09-30 16:10:05.029 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.042 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.063 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.076 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.101 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.113 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.135 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.146 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.169 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.184 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.207 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.220 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.242 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.253 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.274 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.284 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.303 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.316 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.337 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.347 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.367 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.379 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.404 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.415 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.436 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.447 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.467 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.478 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.498 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.509 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.529 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.539 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.560 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.575 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.600 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.610 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.631 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.642 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.668 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.704 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.751 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.769 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.796 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.808 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.829 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.840 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.870 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.884 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.904 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.915 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.936 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.949 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:05.970 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:05.981 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.002 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.013 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.034 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.045 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.066 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.078 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.099 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.110 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.132 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.144 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.165 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.175 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.199 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.212 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.238 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.253 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.288 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.302 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.322 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.335 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.355 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.365 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.389 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.403 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.424 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.435 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.458 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.469 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.490 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.500 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.519 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.530 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.552 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.562 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.583 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.593 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.615 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:06.625 utilities.BaseClass:253 - Facet on product eyecatcher is : NEU
+[INFO ] 2024-09-30 16:10:06.625 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 46 are matching
+[INFO ] 2024-09-30 16:10:06.663 utilities.BaseClass:253 - Filtered product tile product name is : DOUGLAS
+[INFO ] 2024-09-30 16:10:06.761 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:10:06.835 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:10:06.904 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:06.980 utilities.BaseClass:253 - Filtered product tile product name is : DOUGLAS
+[INFO ] 2024-09-30 16:10:07.069 utilities.BaseClass:253 - Filtered product tile product name is : BURBERRY
+[INFO ] 2024-09-30 16:10:07.181 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:07.271 utilities.BaseClass:253 - Filtered product tile product name is : RITUALS
+[INFO ] 2024-09-30 16:10:07.337 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:10:07.410 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:10:07.478 utilities.BaseClass:253 - Filtered product tile product name is : DOUGLAS COLLECTION
+[INFO ] 2024-09-30 16:10:07.550 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:07.618 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:07.687 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:07.758 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:10:07.874 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:10:07.965 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:10:08.036 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:08.109 utilities.BaseClass:253 - Filtered product tile product name is : HERMÈS
+[INFO ] 2024-09-30 16:10:08.202 utilities.BaseClass:253 - Filtered product tile product name is : DOUGLAS COLLECTION
+[INFO ] 2024-09-30 16:10:08.279 utilities.BaseClass:253 - Filtered product tile product name is : ARIANA GRANDE
+[INFO ] 2024-09-30 16:10:08.347 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:08.419 utilities.BaseClass:253 - Filtered product tile product name is : CHLOÉ
+[INFO ] 2024-09-30 16:10:08.490 utilities.BaseClass:253 - Filtered product tile product name is : BURBERRY
+[INFO ] 2024-09-30 16:10:08.563 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:10:08.748 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:10:08.952 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:10:09.055 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:09.121 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:10:09.199 utilities.BaseClass:253 - Filtered product tile product name is : ISSEY MIYAKE
+[INFO ] 2024-09-30 16:10:09.269 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:10:09.347 utilities.BaseClass:253 - Filtered product tile product name is : GUCCI
+[INFO ] 2024-09-30 16:10:09.453 utilities.BaseClass:253 - Filtered product tile product name is : ZADIG&VOLTAIRE
+[INFO ] 2024-09-30 16:10:09.532 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:10:09.613 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:10:09.682 utilities.BaseClass:253 - Filtered product tile product name is : CHANEL
+[INFO ] 2024-09-30 16:10:09.759 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:09.847 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:09.918 utilities.BaseClass:253 - Filtered product tile product name is : ZARKOPERFUME
+[INFO ] 2024-09-30 16:10:09.993 utilities.BaseClass:253 - Filtered product tile product name is : JARDIN BOHÈME
+[INFO ] 2024-09-30 16:10:10.073 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:10.143 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:10:10.241 utilities.BaseClass:253 - Filtered product tile product name is : MICHAEL KORS
+[INFO ] 2024-09-30 16:10:10.320 utilities.BaseClass:253 - Filtered product tile product name is : BVLGARI
+[INFO ] 2024-09-30 16:10:10.386 utilities.BaseClass:253 - Filtered product tile product name is : DIOR
+[INFO ] 2024-09-30 16:10:10.491 utilities.BaseClass:253 - Filtered product tile product name is : OUAI
+[INFO ] 2024-09-30 16:10:10.567 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:10:10.635 utilities.BaseClass:253 - Filtered product tile product name is : CHANEL
+[INFO ] 2024-09-30 16:10:10.727 utilities.BaseClass:253 - Filtered product tile product name is : RITUALS
+[INFO ] 2024-09-30 16:10:10.798 utilities.BaseClass:253 - Filtered product tile product name is : NARCISO RODRIGUEZ
+[INFO ] 2024-09-30 16:10:10.899 utilities.BaseClass:137 - Product filter Marke is visible
+[INFO ] 2024-09-30 16:10:11.111 utilities.BaseClass:217 - Clicked Product filter Marke
+[INFO ] 2024-09-30 16:10:11.359 utilities.BaseClass:137 - Product filter Marke 4711AcquaColonia is visible
+[INFO ] 2024-09-30 16:10:11.885 utilities.BaseClass:217 - Clicked Product filter Marke 4711AcquaColonia
+[INFO ] 2024-09-30 16:10:11.981 utilities.ExcelReadWrite:43 - Excel data: 4711 Acqua Colonia
+[INFO ] 2024-09-30 16:10:15.023 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:15.044 utilities.BaseClass:253 - Selected facet name is : 4711 Acqua Colonia
+[INFO ] 2024-09-30 16:10:15.077 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:15.090 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:15.135 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:15.498 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:16.515 pageObjects.ParfumPageObjects:178 - Count of filtered products: 1
+[INFO ] 2024-09-30 16:10:16.576 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:10:16.589 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 1
+[INFO ] 2024-09-30 16:10:16.619 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:16.629 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:16.630 pageObjects.ParfumPageObjects:215 - Count of filtered products: 1 and discount eyecatchers: 1 are matching
+[INFO ] 2024-09-30 16:10:16.661 utilities.BaseClass:137 - Product tile Marke is visible
+[INFO ] 2024-09-30 16:10:16.671 utilities.BaseClass:253 - Product tile Marke name is : 4711 ACQUA COLONIA
+[INFO ] 2024-09-30 16:10:16.703 utilities.BaseClass:253 - Filtered product tile product name is : 4711 ACQUA COLONIA
+[INFO ] 2024-09-30 16:10:16.807 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:10:16.981 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:10:17.684 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:10:17.730 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:10:17.787 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:10:17.922 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:10:18.025 utilities.ExcelReadWrite:43 - Excel data: NEU
+[INFO ] 2024-09-30 16:10:18.604 utilities.BaseClass:137 - Product filter highlights NEU is visible
+[INFO ] 2024-09-30 16:10:18.942 utilities.BaseClass:217 - Clicked Product filter highlights NEU
+[INFO ] 2024-09-30 16:10:21.987 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:22.007 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:22.066 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:22.493 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:23.545 utilities.BaseClass:137 - Product facet Produktart is visible
+[INFO ] 2024-09-30 16:10:23.676 utilities.BaseClass:217 - Clicked product facet Produktart
+[INFO ] 2024-09-30 16:10:24.281 utilities.BaseClass:137 - Product facet Produktart EauDeParfum is visible
+[INFO ] 2024-09-30 16:10:24.634 utilities.BaseClass:217 - Clicked product facet Produktart EauDeParfum
+[INFO ] 2024-09-30 16:10:24.654 utilities.ExcelReadWrite:43 - Excel data: Eau de Parfum
+[INFO ] 2024-09-30 16:10:27.700 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:27.714 utilities.BaseClass:253 - Selected facet name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:27.741 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:27.757 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:27.806 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:28.103 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:29.125 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:10:29.205 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:10:29.219 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 14
+[INFO ] 2024-09-30 16:10:29.255 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.266 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.288 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.308 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.331 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.343 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.365 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.376 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.397 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.410 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.432 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.443 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.465 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.479 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.514 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.526 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.551 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.562 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.583 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.596 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.624 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.637 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.660 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.672 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.693 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.703 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.725 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:29.737 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:29.737 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 14 are matching
+[INFO ] 2024-09-30 16:10:29.781 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.793 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.815 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.826 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.848 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.860 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.881 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.891 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.918 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.930 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.953 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.964 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:29.986 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:29.998 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.020 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.031 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.052 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.064 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.085 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.096 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.118 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.131 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.152 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.164 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.185 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.197 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.218 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.230 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.250 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.263 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.284 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.297 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.320 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.332 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.353 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.364 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.385 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.397 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.418 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.429 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.450 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.461 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.483 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.494 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.515 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.526 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.546 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.557 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.578 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.590 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.611 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.623 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.645 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.657 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.684 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.696 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.719 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.734 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.754 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.765 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.788 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.801 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.823 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.834 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.857 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.868 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.889 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.900 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.921 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.933 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.955 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:30.966 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:30.990 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.002 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.023 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.034 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.060 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.078 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.100 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.111 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.132 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.144 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.166 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.177 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.198 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.209 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.230 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.241 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.263 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.274 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.295 utilities.BaseClass:137 - Product detail is visible
+[INFO ] 2024-09-30 16:10:31.306 utilities.BaseClass:253 - Product detail category name is : Eau de Parfum
+[INFO ] 2024-09-30 16:10:31.345 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:10:31.429 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:31.507 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:10:31.578 utilities.BaseClass:253 - Filtered product tile product name is : HERMÈS
+[INFO ] 2024-09-30 16:10:31.662 utilities.BaseClass:253 - Filtered product tile product name is : ARIANA GRANDE
+[INFO ] 2024-09-30 16:10:31.727 utilities.BaseClass:253 - Filtered product tile product name is : CHLOÉ
+[INFO ] 2024-09-30 16:10:31.801 utilities.BaseClass:253 - Filtered product tile product name is : BURBERRY
+[INFO ] 2024-09-30 16:10:31.873 utilities.BaseClass:253 - Filtered product tile product name is : GIVENCHY
+[INFO ] 2024-09-30 16:10:31.962 utilities.BaseClass:253 - Filtered product tile product name is : JEAN PAUL GAULTIER
+[INFO ] 2024-09-30 16:10:32.034 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:10:32.108 utilities.BaseClass:253 - Filtered product tile product name is : GUCCI
+[INFO ] 2024-09-30 16:10:32.188 utilities.BaseClass:253 - Filtered product tile product name is : ZADIG&VOLTAIRE
+[INFO ] 2024-09-30 16:10:32.279 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:10:32.349 utilities.BaseClass:253 - Filtered product tile product name is : CHANEL
+[INFO ] 2024-09-30 16:10:32.420 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:32.495 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:32.563 utilities.BaseClass:253 - Filtered product tile product name is : ZARKOPERFUME
+[INFO ] 2024-09-30 16:10:32.635 utilities.BaseClass:253 - Filtered product tile product name is : JARDIN BOHÈME
+[INFO ] 2024-09-30 16:10:32.709 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:10:32.780 utilities.BaseClass:253 - Filtered product tile product name is : MICHAEL KORS
+[INFO ] 2024-09-30 16:10:32.850 utilities.BaseClass:253 - Filtered product tile product name is : CALVIN KLEIN
+[INFO ] 2024-09-30 16:10:32.921 utilities.BaseClass:253 - Filtered product tile product name is : NARCISO RODRIGUEZ
+[INFO ] 2024-09-30 16:10:32.990 utilities.BaseClass:253 - Filtered product tile product name is : DOLCE&GABBANA
+[INFO ] 2024-09-30 16:10:33.062 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:10:33.154 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:10:33.223 utilities.BaseClass:253 - Filtered product tile product name is : JARDIN BOHÈME
+[INFO ] 2024-09-30 16:10:33.293 utilities.BaseClass:253 - Filtered product tile product name is : MAISON FRANCIS KURKDJIAN PARIS
+[INFO ] 2024-09-30 16:10:33.363 utilities.BaseClass:253 - Filtered product tile product name is : COACH
+[INFO ] 2024-09-30 16:10:33.436 utilities.BaseClass:253 - Filtered product tile product name is : MCM
+[INFO ] 2024-09-30 16:10:33.564 utilities.BaseClass:253 - Filtered product tile product name is : LACOSTE
+[INFO ] 2024-09-30 16:10:33.635 utilities.BaseClass:253 - Filtered product tile product name is : MICHAEL KORS
+[INFO ] 2024-09-30 16:10:33.723 utilities.BaseClass:253 - Filtered product tile product name is : CLIVE CHRISTIAN
+[INFO ] 2024-09-30 16:10:33.802 utilities.BaseClass:253 - Filtered product tile product name is : MARC JACOBS
+[INFO ] 2024-09-30 16:10:33.875 utilities.BaseClass:253 - Filtered product tile product name is : ACQUA DI PARMA
+[INFO ] 2024-09-30 16:10:33.972 utilities.BaseClass:253 - Filtered product tile product name is : CHLOÉ
+[INFO ] 2024-09-30 16:10:34.043 utilities.BaseClass:253 - Filtered product tile product name is : NATURE BLOSSOM
+[INFO ] 2024-09-30 16:10:34.114 utilities.BaseClass:253 - Filtered product tile product name is : TRUSSARDI
+[INFO ] 2024-09-30 16:10:34.208 utilities.BaseClass:253 - Filtered product tile product name is : CREED
+[INFO ] 2024-09-30 16:10:34.274 utilities.BaseClass:253 - Filtered product tile product name is : KILIAN
+[INFO ] 2024-09-30 16:10:34.347 utilities.BaseClass:253 - Filtered product tile product name is : NARCISO RODRIGUEZ
+[INFO ] 2024-09-30 16:10:34.423 utilities.BaseClass:253 - Filtered product tile product name is : LANVIN
+[INFO ] 2024-09-30 16:10:34.498 utilities.BaseClass:253 - Filtered product tile product name is : BERDOUES
+[INFO ] 2024-09-30 16:10:34.582 utilities.BaseClass:253 - Filtered product tile product name is : CREED
+[INFO ] 2024-09-30 16:10:34.684 utilities.BaseClass:253 - Filtered product tile product name is : LANVIN
+[INFO ] 2024-09-30 16:10:34.755 utilities.BaseClass:253 - Filtered product tile product name is : CHLOÉ
+[INFO ] 2024-09-30 16:10:34.852 utilities.BaseClass:253 - Filtered product tile product name is : NARCISO RODRIGUEZ
+[INFO ] 2024-09-30 16:10:34.984 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:10:35.315 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:10:36.010 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:10:36.034 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:10:36.129 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:10:36.293 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:10:36.385 utilities.ExcelReadWrite:43 - Excel data: NEU
+[INFO ] 2024-09-30 16:10:36.975 utilities.BaseClass:137 - Product filter highlights NEU is visible
+[INFO ] 2024-09-30 16:10:37.394 utilities.BaseClass:217 - Clicked Product filter highlights NEU
+[INFO ] 2024-09-30 16:10:40.478 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:40.507 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:40.561 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:41.049 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:42.118 utilities.BaseClass:137 - Product facet Fur Wen is visible
+[INFO ] 2024-09-30 16:10:42.299 utilities.BaseClass:217 - Clicked product facet Fur Wen
+[INFO ] 2024-09-30 16:10:42.943 utilities.BaseClass:137 - Product facet Fur Wen Mannlich is visible
+[INFO ] 2024-09-30 16:10:43.356 utilities.BaseClass:217 - Clicked product facet Fur Wen Mannlich
+[INFO ] 2024-09-30 16:10:43.394 utilities.ExcelReadWrite:43 - Excel data: Männlich
+[INFO ] 2024-09-30 16:10:46.441 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:46.464 utilities.BaseClass:253 - Selected facet name is : Männlich
+[INFO ] 2024-09-30 16:10:46.495 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:46.507 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:46.558 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:46.917 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:10:47.938 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:10:48.010 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:10:48.024 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 20
+[INFO ] 2024-09-30 16:10:48.061 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.075 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.100 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.113 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.137 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.151 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.173 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.184 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.206 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.218 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.239 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.251 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.273 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.285 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.306 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.317 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.340 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.353 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.379 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.392 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.416 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.428 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.450 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.462 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.486 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.497 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.522 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.534 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.556 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.569 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.594 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.606 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.635 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.650 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.674 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.686 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.709 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.724 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.747 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:10:48.758 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:10:48.758 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 20 are matching
+[INFO ] 2024-09-30 16:10:48.802 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:10:48.903 utilities.BaseClass:253 - Filtered product tile product name is : VERSACE
+[INFO ] 2024-09-30 16:10:48.980 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:49.054 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:49.136 utilities.BaseClass:253 - Filtered product tile product name is : ISSEY MIYAKE
+[INFO ] 2024-09-30 16:10:49.227 utilities.BaseClass:253 - Filtered product tile product name is : CHANEL
+[INFO ] 2024-09-30 16:10:49.332 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:49.411 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:49.494 utilities.BaseClass:253 - Filtered product tile product name is : DIOR
+[INFO ] 2024-09-30 16:10:49.574 utilities.BaseClass:253 - Filtered product tile product name is : CHANEL
+[INFO ] 2024-09-30 16:10:49.669 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:10:49.783 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:10:49.873 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:49.951 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:50.063 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:50.197 utilities.BaseClass:253 - Filtered product tile product name is : MCM
+[INFO ] 2024-09-30 16:10:50.273 utilities.BaseClass:253 - Filtered product tile product name is : LACOSTE
+[INFO ] 2024-09-30 16:10:50.347 utilities.BaseClass:253 - Filtered product tile product name is : MICHAEL KORS
+[INFO ] 2024-09-30 16:10:50.420 utilities.BaseClass:253 - Filtered product tile product name is : ANNAYAKE
+[INFO ] 2024-09-30 16:10:50.498 utilities.BaseClass:253 - Filtered product tile product name is : ABERCROMBIE & FITCH
+[INFO ] 2024-09-30 16:10:50.614 utilities.BaseClass:253 - Filtered product tile product name is : CACHAREL
+[INFO ] 2024-09-30 16:10:50.741 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:10:50.836 utilities.BaseClass:253 - Filtered product tile product name is : TOMMY HILFIGER
+[INFO ] 2024-09-30 16:10:50.923 utilities.BaseClass:253 - Filtered product tile product name is : CORBO
+[INFO ] 2024-09-30 16:10:50.999 utilities.BaseClass:253 - Filtered product tile product name is : DANIEL HECHTER
+[INFO ] 2024-09-30 16:10:51.097 utilities.BaseClass:253 - Filtered product tile product name is : GUY LAROCHE
+[INFO ] 2024-09-30 16:10:51.173 utilities.BaseClass:253 - Filtered product tile product name is : CARVEN
+[INFO ] 2024-09-30 16:10:51.262 utilities.BaseClass:253 - Filtered product tile product name is : ESTÉE LAUDER
+[INFO ] 2024-09-30 16:10:51.348 utilities.BaseClass:253 - Filtered product tile product name is : ANNAYAKE
+[INFO ] 2024-09-30 16:10:51.425 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:10:51.499 utilities.BaseClass:253 - Filtered product tile product name is : RALPH LAUREN
+[INFO ] 2024-09-30 16:10:51.574 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:10:51.670 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:10:51.755 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:10:51.829 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:10:51.908 utilities.BaseClass:253 - Filtered product tile product name is : ROGER & GALLET
+[INFO ] 2024-09-30 16:10:51.981 utilities.BaseClass:253 - Filtered product tile product name is : ROGER & GALLET
+[INFO ] 2024-09-30 16:10:52.051 utilities.BaseClass:253 - Filtered product tile product name is : DANIEL HECHTER
+[INFO ] 2024-09-30 16:10:52.215 utilities.BaseClass:253 - Filtered product tile product name is : DANIEL HECHTER
+[INFO ] 2024-09-30 16:10:52.299 utilities.BaseClass:253 - Filtered product tile product name is : DANIEL HECHTER
+[INFO ] 2024-09-30 16:10:52.389 utilities.BaseClass:253 - Filtered product tile product name is : BRIONI
+[INFO ] 2024-09-30 16:10:52.496 utilities.BaseClass:253 - Filtered product tile product name is : GEOFFREY BEENE
+[INFO ] 2024-09-30 16:10:52.576 utilities.BaseClass:253 - Filtered product tile product name is : FLORIS LONDON
+[INFO ] 2024-09-30 16:10:52.671 utilities.BaseClass:253 - Filtered product tile product name is : OTTO KERN
+[INFO ] 2024-09-30 16:10:52.822 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:10:52.906 utilities.BaseClass:253 - Filtered product tile product name is : TRUSSARDI
+[INFO ] 2024-09-30 16:10:52.994 utilities.BaseClass:253 - Filtered product tile product name is : KAJAL PERFUMES PARIS
+[INFO ] 2024-09-30 16:10:53.130 utilities.BaseClass:253 - Filtered product tile product name is : TED BAKER
+[INFO ] 2024-09-30 16:10:53.369 utilities.BaseClass:137 - Clear filter button is visible
+[INFO ] 2024-09-30 16:10:53.825 utilities.BaseClass:217 - Clicked clear filter button
+[INFO ] 2024-09-30 16:10:54.806 utilities.BaseClass:168 - Filter facet is not visible
+[INFO ] 2024-09-30 16:10:54.842 utilities.BaseClass:270 - Page scrolled till Product overview headline
+[INFO ] 2024-09-30 16:10:54.943 utilities.BaseClass:137 - Product filter highlights is visible
+[INFO ] 2024-09-30 16:10:55.215 utilities.BaseClass:217 - Clicked Product filter highlights
+[INFO ] 2024-09-30 16:10:55.338 utilities.ExcelReadWrite:43 - Excel data: NEU
+[INFO ] 2024-09-30 16:10:55.475 utilities.BaseClass:137 - Product filter highlights NEU is visible
+[INFO ] 2024-09-30 16:10:55.969 utilities.BaseClass:217 - Clicked Product filter highlights NEU
+[INFO ] 2024-09-30 16:10:59.017 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:10:59.039 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:10:59.114 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:10:59.467 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:11:00.533 utilities.BaseClass:137 - Product facet Geschenkfur is visible
+[INFO ] 2024-09-30 16:11:01.102 utilities.BaseClass:217 - Clicked product facet Geschenkfur
+[INFO ] 2024-09-30 16:11:01.768 utilities.BaseClass:137 - Product facet Geschenkfur Nikolaus is visible
+[INFO ] 2024-09-30 16:11:02.191 utilities.BaseClass:217 - Clicked product facet Geschenkfur Nikolaus
+[INFO ] 2024-09-30 16:11:02.209 utilities.ExcelReadWrite:43 - Excel data: Nikolaus
+[INFO ] 2024-09-30 16:11:05.259 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:11:05.284 utilities.BaseClass:253 - Selected facet name is : NEU
+[INFO ] 2024-09-30 16:11:05.321 utilities.BaseClass:137 - Selected facet is visible
+[INFO ] 2024-09-30 16:11:05.340 utilities.BaseClass:253 - Selected facet name is : Nikolaus
+[INFO ] 2024-09-30 16:11:05.408 utilities.BaseClass:195 - Show Products button is visible
+[INFO ] 2024-09-30 16:11:05.814 utilities.BaseClass:237 - Clicked Show Products button
+[INFO ] 2024-09-30 16:11:06.838 pageObjects.ParfumPageObjects:178 - Count of filtered products: 48
+[INFO ] 2024-09-30 16:11:06.919 utilities.BaseClass:137 - Filtered product listing is visible
+[INFO ] 2024-09-30 16:11:06.933 pageObjects.ParfumPageObjects:196 - Count of facet discount eyecatcher: 21
+[INFO ] 2024-09-30 16:11:06.969 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:06.983 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.007 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.021 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.050 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.062 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.086 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.097 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.119 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.131 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.152 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.164 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.187 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.199 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.221 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.233 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.257 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.269 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.298 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.312 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.338 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.350 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.373 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.387 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.410 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.423 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.446 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.459 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.480 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.492 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.517 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.531 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.559 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.572 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.596 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.617 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.642 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.655 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.678 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.689 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.715 utilities.BaseClass:137 - Facet on product eyecatcher is visible
+[INFO ] 2024-09-30 16:11:07.728 utilities.BaseClass:253 - Facet on product eyecatcher is : SALE
+[INFO ] 2024-09-30 16:11:07.728 pageObjects.ParfumPageObjects:215 - Count of filtered products: 48 and discount eyecatchers: 21 are matching
+[INFO ] 2024-09-30 16:11:07.768 utilities.BaseClass:253 - Filtered product tile product name is : BURBERRY
+[INFO ] 2024-09-30 16:11:07.860 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:11:07.948 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:11:08.033 utilities.BaseClass:253 - Filtered product tile product name is : CAROLINA HERRERA
+[INFO ] 2024-09-30 16:11:08.104 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:11:08.182 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:11:08.257 utilities.BaseClass:253 - Filtered product tile product name is : RITUALS
+[INFO ] 2024-09-30 16:11:08.332 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:11:08.403 utilities.BaseClass:253 - Filtered product tile product name is : HUGO BOSS
+[INFO ] 2024-09-30 16:11:08.479 utilities.BaseClass:253 - Filtered product tile product name is : ABERCROMBIE & FITCH
+[INFO ] 2024-09-30 16:11:08.553 utilities.BaseClass:253 - Filtered product tile product name is : DAVIDOFF
+[INFO ] 2024-09-30 16:11:08.621 utilities.BaseClass:253 - Filtered product tile product name is : JOOP!
+[INFO ] 2024-09-30 16:11:08.709 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:11:08.784 utilities.BaseClass:253 - Filtered product tile product name is : LA ROCHE-POSAY
+[INFO ] 2024-09-30 16:11:08.858 utilities.BaseClass:253 - Filtered product tile product name is : RABANNE
+[INFO ] 2024-09-30 16:11:08.933 utilities.BaseClass:253 - Filtered product tile product name is : JO MALONE LONDON
+[INFO ] 2024-09-30 16:11:09.013 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:11:09.091 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:11:09.192 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:09.270 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:09.345 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:09.418 utilities.BaseClass:253 - Filtered product tile product name is : CHLOÉ
+[INFO ] 2024-09-30 16:11:09.497 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:11:09.573 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:11:09.646 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:09.718 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:11:09.790 utilities.BaseClass:253 - Filtered product tile product name is : YVES SAINT LAURENT
+[INFO ] 2024-09-30 16:11:09.867 utilities.BaseClass:253 - Filtered product tile product name is : JIL SANDER
+[INFO ] 2024-09-30 16:11:09.940 utilities.BaseClass:253 - Filtered product tile product name is : MARC JACOBS
+[INFO ] 2024-09-30 16:11:10.032 utilities.BaseClass:253 - Filtered product tile product name is : GUERLAIN
+[INFO ] 2024-09-30 16:11:10.104 utilities.BaseClass:253 - Filtered product tile product name is : GUERLAIN
+[INFO ] 2024-09-30 16:11:10.186 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:10.260 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:11:10.332 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:11:10.407 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:11:10.486 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:11:10.564 utilities.BaseClass:253 - Filtered product tile product name is : MAISON MARGIELA
+[INFO ] 2024-09-30 16:11:10.646 utilities.BaseClass:253 - Filtered product tile product name is : LANCÔME
+[INFO ] 2024-09-30 16:11:10.717 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:11:10.791 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:10.872 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:10.944 utilities.BaseClass:253 - Filtered product tile product name is : MUGLER
+[INFO ] 2024-09-30 16:11:11.032 utilities.BaseClass:253 - Filtered product tile product name is : PRADA
+[INFO ] 2024-09-30 16:11:11.121 utilities.BaseClass:253 - Filtered product tile product name is : VALENTINO
+[INFO ] 2024-09-30 16:11:11.191 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:11.264 utilities.BaseClass:253 - Filtered product tile product name is : ARMANI
+[INFO ] 2024-09-30 16:11:11.339 utilities.BaseClass:253 - Filtered product tile product name is : GUCCI
+[INFO ] 2024-09-30 16:11:11.410 utilities.BaseClass:253 - Filtered product tile product name is : ELIE SAAB
+[INFO ] 2024-09-30 16:11:11.484 utilities.BaseClass:253 - Filtered product tile product name is : TOM FORD
+[INFO ] 2024-09-30 16:11:11.554 utilities.BaseClass:253 - Filtered product tile product name is : TOM FORD
+[INFO ] 2024-09-30 16:11:12.136 utilities.BaseClass:98 - Browser closed
