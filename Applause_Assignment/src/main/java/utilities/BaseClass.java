@@ -32,6 +32,7 @@ public class BaseClass
 	public static BrowserSetupWeb bs1;
 	public static WebDriverWait wait;
 	public static JavascriptExecutor js;
+	public static String browserName;
 
 	@BeforeSuite
 	public void environmentSetup() throws IOException
@@ -66,11 +67,42 @@ public class BaseClass
 //			}
 //			
 //		}
+		
+		browserName = System.getProperty("selectBrowser");
+		if(browserName == null)
+		{
+			//For local parameter
+			System.out.println("\n--- Select any of the browser --- \n"
+					+ "1 for Chrome \n"
+					+ "2 for Edge \n"
+					+ "3 for Safari");
+			
+			sc = new Scanner(System.in);
+			input = sc.nextLine();
+						
+			switch(input)
+			{
+				case "1":
+					browserName = "chrome";
+					break;
+				case "2":
+					browserName= "edge";
+					break;
+				case "3":
+					browserName= "safari";
+					break;
+				default:
+					TestUtils.log().info("No matching browser");
+			}
+			
+		}
+		
 	}
 	
 	@BeforeClass
-	@Parameters("browserName")
-	public void launchBrowser(@Optional("chrome") String browserName) throws InterruptedException
+//	@Parameters("browserName")
+//	public void launchBrowser(@Optional("chrome") String browserName) throws InterruptedException
+	public void launchBrowser() throws InterruptedException
 	{				
 		bs1 = new BrowserSetupWeb();
 		driver = bs1.initializeDriver(browserName);
@@ -230,7 +262,10 @@ public class BaseClass
 	{
 		boolean flag = false;
 		try {
-			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+			wait.until(ExpectedConditions.visibilityOf(element));
+			
+			wait = new WebDriverWait(driver, Duration.ofSeconds(2));
 			wait.until(ExpectedConditions.elementToBeClickable(element));
 			
 			element.click();

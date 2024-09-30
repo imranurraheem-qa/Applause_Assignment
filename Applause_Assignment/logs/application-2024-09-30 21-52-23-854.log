@@ -1,0 +1,10 @@
+2024-09-30 21-52-23 INFO  BaseClass:110 - Testing on: chrome
+2024-09-30 21-52-26 INFO  BaseClass:122 - Open URL: https://www.douglas.de/de
+2024-09-30 21-52-28 INFO  BaseClass:154 - Page title is: Online-Parfümerie ?? Parfum & Kosmetik kaufen | DOUGLAS
+2024-09-30 21-52-28 INFO  TestProductFilters:31 - Correct website homepage is loaded: Online-Parfümerie ?? Parfum & Kosmetik kaufen | DOUGLAS
+2024-09-30 21-52-29 INFO  BaseClass:169 - Privacy concent popup is visible
+2024-09-30 21-52-29 INFO  BaseClass:169 - Privacy concent popup Allow all button is visible
+2024-09-30 21-52-29 INFO  BaseClass:249 - Clicked Allow all button
+2024-09-30 21-52-29 INFO  BaseClass:169 - Parfum navigation link is visible
+2024-09-30 21-52-29 INFO  BaseClass:249 - Clicked Parfum navigation link
+2024-09-30 21-52-30 INFO  BaseClass:130 - Browser closed

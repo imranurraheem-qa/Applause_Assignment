@@ -9,6 +9,7 @@ import org.openqa.selenium.devtools.DevTools;
 import org.openqa.selenium.devtools.v129.network.Network;
 import org.openqa.selenium.devtools.v129.network.model.RequestId;
 import org.openqa.selenium.devtools.v129.network.model.Response;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
@@ -64,7 +65,7 @@ public class BrowserSetupWeb
 				options.addArguments("--disable-gpu");
 				options.addArguments("--dns-prefetch-disable");
 				options.addArguments("--disable-dev-shm-usage");
-				options.addArguments("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36");
+//				options.addArguments("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36");
 				
 	//			options.addArguments("--remote-debugging-port=9222"); //devTool not connected issue
 	//			options.addArguments("--allow-insecure-localhost");
@@ -85,6 +86,9 @@ public class BrowserSetupWeb
 			}else if(browserName.equals("safari")) {
 				
 				driver = new SafariDriver();
+			}else if(browserName.equals("edge")) {
+				
+				driver = new EdgeDriver();
 			}else {
 				Assert.assertEquals(false, true, "Failed to setup browser driver");
 			}

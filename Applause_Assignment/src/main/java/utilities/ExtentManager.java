@@ -34,7 +34,7 @@ public class ExtentManager {
 		//extent.setSystemInfo("Tester", "Imran");
 		extent.setSystemInfo("Environment", "Production");
 //		extent.setSystemInfo("Device", "Macbook");
-		extent.setSystemInfo("Browser", "Chrome");
+		extent.setSystemInfo("Browser", BaseClass.browserName);
 	}
 	public static void endReport() {
 		extent.flush();

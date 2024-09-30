@@ -2,103 +2,96 @@
 <testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-30T17:56:59 IST" name="Suite" finished-at="2024-09-30T18:12:42 IST" duration-ms="942423">
+  <suite started-at="2024-09-30T21:53:54 IST" name="Suite" finished-at="2024-09-30T22:00:06 IST" duration-ms="372018">
     <groups>
     </groups>
-    <test started-at="2024-09-30T17:56:59 IST" name="Test" finished-at="2024-09-30T18:12:42 IST" duration-ms="942423">
-      <class name="testCases.TestCase1">
-        <test-method is-config="true" signature="environmentSetup()[pri:0, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:56:59 IST" name="environmentSetup" finished-at="2024-09-30T17:56:59 IST" duration-ms="530" status="PASS">
+    <test started-at="2024-09-30T21:53:54 IST" name="Test" finished-at="2024-09-30T22:00:06 IST" duration-ms="372018">
+      <class name="testCases.TestProductFilters">
+        <test-method is-config="true" signature="environmentSetup()[pri:0, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:53:53 IST" name="environmentSetup" finished-at="2024-09-30T21:53:54 IST" duration-ms="1155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentSetup -->
-        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:56:59 IST" name="launchBrowser" finished-at="2024-09-30T17:57:13 IST" duration-ms="13109" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:53:54 IST" name="launchBrowser" finished-at="2024-09-30T21:53:59 IST" duration-ms="4897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="testCase1()[pri:1, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:57:13 IST" name="testCase1" description="TestCase1" finished-at="2024-09-30T17:57:17 IST" duration-ms="3933" status="PASS">
+        <test-method signature="navigateToParfumPage()[pri:1, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:53:59 IST" name="navigateToParfumPage" description="Navigate to Parfum page" finished-at="2024-09-30T21:54:03 IST" duration-ms="3716" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase1 -->
-        <test-method signature="testCase2()[pri:2, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:57:17 IST" name="testCase2" description="TestCase2" finished-at="2024-09-30T17:57:25 IST" duration-ms="8142" status="PASS">
+        </test-method> <!-- navigateToParfumPage -->
+        <test-method signature="verifyParfumPageAndFilters()[pri:2, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:54:03 IST" name="verifyParfumPageAndFilters" description="Verify Parfum page and Filters" finished-at="2024-09-30T21:54:07 IST" duration-ms="3941" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase2 -->
-        <test-method signature="testCase3()[pri:3, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:57:25 IST" name="testCase3" description="TestCase3" finished-at="2024-09-30T17:58:14 IST" duration-ms="49320" status="PASS">
+        </test-method> <!-- verifyParfumPageAndFilters -->
+        <test-method signature="testFilterHighlightsSale()[pri:3, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:54:07 IST" name="testFilterHighlightsSale" description="Test filter Highlights Sale" finished-at="2024-09-30T21:54:29 IST" duration-ms="22537" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase3 -->
-        <test-method signature="testCase4()[pri:4, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:58:14 IST" name="testCase4" description="TestCase4" finished-at="2024-09-30T17:58:47 IST" duration-ms="32523" status="PASS">
+        </test-method> <!-- testFilterHighlightsSale -->
+        <test-method signature="testFilterHighlightsWithMarke1916()[pri:4, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:54:29 IST" name="testFilterHighlightsWithMarke1916" description="Test filter Highlights Sale with Marke 1916" finished-at="2024-09-30T21:54:35 IST" duration-ms="6066" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase4 -->
-        <test-method signature="testCase5()[pri:5, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:58:47 IST" name="testCase5" description="TestCase5" finished-at="2024-09-30T17:59:45 IST" duration-ms="58969" status="PASS">
+        </test-method> <!-- testFilterHighlightsWithMarke1916 -->
+        <test-method signature="testFilterHighlightsSaleWithProduktartEauDeParfum()[pri:5, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:54:35 IST" name="testFilterHighlightsSaleWithProduktartEauDeParfum" description="Test filter Highlights Sale with Produktart EauDeParfum" finished-at="2024-09-30T21:54:56 IST" duration-ms="21011" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase5 -->
-        <test-method signature="testCase6()[pri:6, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T17:59:45 IST" name="testCase6" description="TestCase6" finished-at="2024-09-30T18:00:41 IST" duration-ms="55598" status="PASS">
+        </test-method> <!-- testFilterHighlightsSaleWithProduktartEauDeParfum -->
+        <test-method signature="testFilterHighlightsSaleWithFurwenMannlich()[pri:6, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:54:56 IST" name="testFilterHighlightsSaleWithFurwenMannlich" description="Test filter Highlights Sale with FurWen Mannlich" finished-at="2024-09-30T21:55:26 IST" duration-ms="29490" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase6 -->
-        <test-method signature="testCase7()[pri:7, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:00:41 IST" name="testCase7" description="TestCase7" finished-at="2024-09-30T18:01:36 IST" duration-ms="55276" status="PASS">
+        </test-method> <!-- testFilterHighlightsSaleWithFurwenMannlich -->
+        <test-method signature="testFilterHighlightsSaleWithGeschenkfurFacetGeburtstag()[pri:7, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:55:26 IST" name="testFilterHighlightsSaleWithGeschenkfurFacetGeburtstag" description="Test filter Highlights Sale with Geschenkfur Geburtstag" finished-at="2024-09-30T21:55:56 IST" duration-ms="30184" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase7 -->
-        <test-method signature="testCase8()[pri:8, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:01:36 IST" name="testCase8" description="TestCase8" finished-at="2024-09-30T18:02:23 IST" duration-ms="46922" status="PASS">
+        </test-method> <!-- testFilterHighlightsSaleWithGeschenkfurFacetGeburtstag -->
+        <test-method signature="testFilterHighlightsNeu()[pri:8, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:55:56 IST" name="testFilterHighlightsNeu" description="Test filter Highlights Neu" finished-at="2024-09-30T21:56:11 IST" duration-ms="14730" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase8 -->
-        <test-method signature="testCase9()[pri:9, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:02:23 IST" name="testCase9" description="TestCase9" finished-at="2024-09-30T18:02:57 IST" duration-ms="33903" status="PASS">
+        </test-method> <!-- testFilterHighlightsNeu -->
+        <test-method signature="testFilterHighlightsNeuWithMarkeFacet4711AcquaColonia()[pri:9, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:56:11 IST" name="testFilterHighlightsNeuWithMarkeFacet4711AcquaColonia" description="Test filter Highlights Neu with Marke 4711AcquaColonia" finished-at="2024-09-30T21:56:27 IST" duration-ms="16210" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase9 -->
-        <test-method signature="testCase10()[pri:10, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:02:57 IST" name="testCase10" description="TestCase10" finished-at="2024-09-30T18:04:21 IST" duration-ms="83536" status="PASS">
+        </test-method> <!-- testFilterHighlightsNeuWithMarkeFacet4711AcquaColonia -->
+        <test-method signature="testFilterHighlightsNeuWithProduktartFacetEauDeParfum()[pri:10, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:56:27 IST" name="testFilterHighlightsNeuWithProduktartFacetEauDeParfum" description="Test filter Highlights Neu with Produktart EauDeParfum" finished-at="2024-09-30T21:56:49 IST" duration-ms="21923" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase10 -->
-        <test-method signature="testCase11()[pri:11, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:04:21 IST" name="testCase11" description="TestCase11" finished-at="2024-09-30T18:05:42 IST" duration-ms="81244" status="PASS">
+        </test-method> <!-- testFilterHighlightsNeuWithProduktartFacetEauDeParfum -->
+        <test-method signature="testFilterHighlightsNeuWithFurWenFacetMannlich()[pri:11, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:56:49 IST" name="testFilterHighlightsNeuWithFurWenFacetMannlich" description="Test filter Highlights Neu with FurWen Mannlich" finished-at="2024-09-30T21:57:19 IST" duration-ms="30036" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase11 -->
-        <test-method signature="testCase12()[pri:12, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:05:42 IST" name="testCase12" description="TestCase12" finished-at="2024-09-30T18:07:01 IST" duration-ms="79344" status="PASS">
+        </test-method> <!-- testFilterHighlightsNeuWithFurWenFacetMannlich -->
+        <test-method signature="testFilterHighlightsNeuWithGeschenkfurFacetNikolaus()[pri:12, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:57:19 IST" name="testFilterHighlightsNeuWithGeschenkfurFacetNikolaus" description="Test filter Highlights Neu with Geschenkfur Nikolaus" finished-at="2024-09-30T21:57:49 IST" duration-ms="30416" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase12 -->
-        <test-method signature="testCase13()[pri:13, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:07:01 IST" name="testCase13" description="TestCase13" finished-at="2024-09-30T18:07:48 IST" duration-ms="46790" status="PASS">
+        </test-method> <!-- testFilterHighlightsNeuWithGeschenkfurFacetNikolaus -->
+        <test-method signature="testFilterHighlightsLimitiert()[pri:13, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:57:49 IST" name="testFilterHighlightsLimitiert" description="Test filter Highlights Limitiert" finished-at="2024-09-30T21:58:13 IST" duration-ms="23819" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase13 -->
-        <test-method signature="testCase14()[pri:14, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:07:48 IST" name="testCase14" description="TestCase14" finished-at="2024-09-30T18:08:33 IST" duration-ms="44854" status="PASS">
+        </test-method> <!-- testFilterHighlightsLimitiert -->
+        <test-method signature="testFilterHighlightsLimitiertWithMarkeFacet4711AcquaColonia()[pri:14, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:58:13 IST" name="testFilterHighlightsLimitiertWithMarkeFacet4711AcquaColonia" description="Test filter Highlights Limitiert with Marke 4711AcquaColonia" finished-at="2024-09-30T21:58:30 IST" duration-ms="16775" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase14 -->
-        <test-method signature="testCase15()[pri:15, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:08:33 IST" name="testCase15" description="TestCase15" finished-at="2024-09-30T18:09:57 IST" duration-ms="84065" status="PASS">
+        </test-method> <!-- testFilterHighlightsLimitiertWithMarkeFacet4711AcquaColonia -->
+        <test-method signature="testFilterHighlightsLimitiertWithProduktartFacetEauDeParfum()[pri:15, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:58:30 IST" name="testFilterHighlightsLimitiertWithProduktartFacetEauDeParfum" description="Test filter Highlights Limitiert with Produktart EauDeParfum" finished-at="2024-09-30T21:59:02 IST" duration-ms="32453" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase15 -->
-        <test-method signature="testCase16()[pri:16, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:09:57 IST" name="testCase16" description="TestCase16" finished-at="2024-09-30T18:11:20 IST" duration-ms="83109" status="PASS">
+        </test-method> <!-- testFilterHighlightsLimitiertWithProduktartFacetEauDeParfum -->
+        <test-method signature="testFilterHighlightsLimitiertWithFurWenFacetMannlich()[pri:16, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:59:02 IST" name="testFilterHighlightsLimitiertWithFurWenFacetMannlich" description="Test filter Highlights Limitiert with FurWen Mannlich" finished-at="2024-09-30T21:59:33 IST" duration-ms="31123" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase16 -->
-        <test-method signature="testCase17()[pri:17, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:11:20 IST" name="testCase17" description="TestCase17" finished-at="2024-09-30T18:12:41 IST" duration-ms="80588" status="PASS">
+        </test-method> <!-- testFilterHighlightsLimitiertWithFurWenFacetMannlich -->
+        <test-method signature="testFilterHighlightsLimitiertWithGeschenkfurFacetNikolaus()[pri:17, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T21:59:33 IST" name="testFilterHighlightsLimitiertWithGeschenkfurFacetNikolaus" description="Test filter Highlights Limitiert with Geschenkfur Nikolaus" finished-at="2024-09-30T22:00:05 IST" duration-ms="31197" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCase17 -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:12:41 IST" name="closeDriver" finished-at="2024-09-30T18:12:42 IST" duration-ms="1138" status="PASS">
+        </test-method> <!-- testFilterHighlightsLimitiertWithGeschenkfurFacetNikolaus -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T22:00:05 IST" name="closeDriver" finished-at="2024-09-30T22:00:06 IST" duration-ms="1454" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.TestCase1@771a660]" started-at="2024-09-30T18:12:42 IST" name="afterSuite" finished-at="2024-09-30T18:12:42 IST" duration-ms="551" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testCases.TestProductFilters@7db12bb6]" started-at="2024-09-30T22:00:06 IST" name="afterSuite" finished-at="2024-09-30T22:00:06 IST" duration-ms="267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
-      </class> <!-- testCases.TestCase1 -->
+      </class> <!-- testCases.TestProductFilters -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

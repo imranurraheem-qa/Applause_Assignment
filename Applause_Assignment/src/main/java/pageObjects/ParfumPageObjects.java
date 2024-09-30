@@ -168,7 +168,7 @@ public class ParfumPageObjects extends BaseClass
 	{
 		//flaky test
 		//disappears intermittently
-		boolean isVisible = isElementVisibleDummy(showProductsButton, "Show Products button is visible");
+//		boolean isVisible = isElementVisibleDummy(showProductsButton, "Show Products button is visible");
 //		Assert.assertEquals(isVisible, true, "Show Products button is not visible");
 		
 		clickElementDummy(showProductsButton, "Clicked Show Products button");

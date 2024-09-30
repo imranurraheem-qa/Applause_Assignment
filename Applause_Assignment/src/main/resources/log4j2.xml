@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
+    <!-- Define custom loggers and their appenders -->
     <Appenders>
-        <Console name="Console" target="SYSTEM_OUT">
-        <!-- "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n" -->
-        <!-- "%d{yyyy-MM-dd.HH:mm:ss.SSS} [%c] %-5level - %msg%n" -->
-            <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n"/>
+        <!-- Console Appender to log to console -->
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH-mm-ss} %-5p %c{1}:%L - %m%n"/>
         </Console>
-        <File name="File" fileName="./logs/${date:yyyy-MM-dd.HH:mm:ss.SSS}-log4j.log" append="true">
-            <PatternLayout>
-                <Pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c:%L - %m%n</Pattern>
-            </PatternLayout>
-        </File>
+
+        <!-- File Appender to log to a file -->
+        <RollingFile name="FileAppender" fileName="./logs/executionLogs-${date:yyyy-MM-dd HH-mm-ss-SSS}.log" filePattern="./logs/Execution-%d{yyyy-MM-dd-HH-mm-ss}-log4j.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH-mm-ss} %-5p %c{1}:%L - %m%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
     </Appenders>
+
+    <!-- Loggers configuration -->
     <Loggers>
-        <Logger name="co.gokwik" level="info" additivity="true">
-            <AppenderRef ref="Console"/>
-        </Logger>
+        <!-- Root logger: Logs to both console and file -->
         <Root level="info">
-            <AppenderRef ref="Console"/>
-            <AppenderRef ref="File"/>
+            <AppenderRef ref="ConsoleAppender"/>
+            <AppenderRef ref="FileAppender"/>
         </Root>
     </Loggers>
 </Configuration>
